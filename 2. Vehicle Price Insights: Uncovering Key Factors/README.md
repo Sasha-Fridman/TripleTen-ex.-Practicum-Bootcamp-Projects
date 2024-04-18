@@ -2,5 +2,8 @@
 
 |Project|Topic|Description|Tools|
 |:----------|:--------|:------------------------------------------------------------|:-------------|
-|[**Vehicle Price Insights: Uncovering Key Factors**]()|**Exploratory Data Analysis**|📰🚗 **Ad-based analysis of the factors affecting the vehicles market** |**python, pandas, numpy, sidetable, matplotlib,  seaborn**|
+|[**Vehicle Price Insights: Uncovering Key Factors**]()|**Exploratory Data Analysis**|📰🚗 **Ad-based analysis of the factors affecting the vehicles market** |**python, pandas, numpy, sidetable, matplotlib,  seaborn**|  
 
+***
+
+Description of the project data and its analysis can be found in the accompanying Jupyter Notebook file above.
