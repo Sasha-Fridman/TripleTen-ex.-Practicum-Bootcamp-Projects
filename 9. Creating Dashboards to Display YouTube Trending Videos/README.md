@@ -1,4 +1,3 @@
-
 |Project|Topic|Description|Tools|
 |:----------|:--------|:------------------------------------------------------------|:-------------|
 |Creating Dashboards to Display YouTube Trending Videos|Automation and Tableau|📺📈 Analyzing trending-video history on YouTube for the advertising agency, to determine what content deserves marketing attention *(includes Tableau [dashboard](https://public.tableau.com/app/profile/sasha.fridman/viz/TrendingVideos_17052410546960/Dashboard?publish=yes) and [presentation](https://github.com/Sasha-Fridman/TripleTen-ex.-Practicum-Bootcamp-Projects/blob/main/9.%20Creating%20Dashboards%20to%20Display%20YouTube%20Trending%20Videos/Trending%20Video%20Presentation%20by%20Sasha%20Fridman.pdf) of the project)*|Tableau, Canva|
