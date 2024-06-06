@@ -8,7 +8,6 @@
 As video ad analysts at Sterling & Draper, we analyze trending YouTube videos to determine which content deserves marketing attention. Each video is categorized (Entertainment, Music, News & Politics, etc.), includes region info, and can trend for multiple days.
 
 Every week, new employees ask:
-
 - what video categories trended last week?
 - how were they distributed among regions?
 - which categories were popular in the U.S.?
